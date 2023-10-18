@@ -7,14 +7,14 @@
 
 Dators nejauši ģenerē skaitli no 1 līdz 100, pēctam piedāvā spēlētājam uzzimēt to skaitli
 
-Spēles loģika ir labi aprakstīta šajā kodā:
-Py 
+Spēles loģika ir labi aprakstīta šajā kodā :
+'''py
+ 
+    import random
 
-import random
+    repeat = True
 
-repeat = True
-
-while repeat:
+    while repeat:
     number = random.randint(1, 100)
     guess = 0
     tries = 0
