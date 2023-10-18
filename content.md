@@ -2,13 +2,14 @@
 
 ### saturs
 
-1. Apskatīt spēli
+1. Spēles apraksts
+   interisanta spēle kas attīsta loģiku
 2. Spēles loģika
 
 Dators nejauši ģenerē skaitli no 1 līdz 100, pēctam piedāvā spēlētājam uzzimēt to skaitli
 
 Spēles loģika ir labi aprakstīta šajā kodā :
-'''py
+'''Py
  
     import random
 
@@ -44,7 +45,7 @@ Spēles loģika ir labi aprakstīta šajā kodā :
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
-
+'''
   
 3. un t.t
 
