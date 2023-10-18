@@ -8,7 +8,8 @@
 Dators nejauši ģenerē skaitli no 1 līdz 100, pēctam piedāvā spēlētājam uzzimēt to skaitli
 
 Spēles loģika ir labi aprakstīta šajā kodā:
-py
+Py 
+
 import random
 
 repeat = True
@@ -43,6 +44,7 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
-   
+
+  
 3. un t.t
 
