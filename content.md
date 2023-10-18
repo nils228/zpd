@@ -9,7 +9,7 @@
 Dators nejauši ģenerē skaitli no 1 līdz 100, pēctam piedāvā spēlētājam uzzimēt to skaitli
 
 Spēles loģika ir labi aprakstīta šajā kodā :
-'''Py
+' ' ' Py
  
     import random
 
